@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "March 1st at 12:30pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Meeting with boss",
+      "day": "March 3rd at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Food Shopping",
+      "day": "March 5th at 1:45pm",
+      "reminder": false
+    },
+    {
+      "text": "Meet with friends",
+      "day": "10th May 6:00pm",
+      "reminder": false,
+      "id": "JJEvkCr"
+    },
+    {
+      "text": "Dentist Appt.",
+      "day": "15th June 7:00AM",
+      "reminder": true,
+      "id": "D_1q4BZ"
+    },
+    {
+      "text": "study for test",
+      "day": "15th June 7:00AM",
+      "reminder": true,
+      "id": "cfDaJj0"
+    }
+  ]
+}
