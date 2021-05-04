@@ -31,9 +31,9 @@ Users should be able to:
 
 ### Screenshot For My Attempt
 
-- Desktop View
+![View of all tasks with add task form toggled off](./screenshots/viewOfAllTasks.png)
 
-![]()
+![View of all tasks with add task form toggled on](./screenshots/viewOfAddTaskForm.png)
 
 
 ### Links
