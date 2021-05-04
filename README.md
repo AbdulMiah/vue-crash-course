@@ -13,7 +13,7 @@ This project was completed following the [Vue JS Crash Course 2021 from Traversy
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Project Setup](#projectsetup)
+- [Project Setup](#project-setup)
 
 ## Overview
 
@@ -50,11 +50,9 @@ Users should be able to:
 
 ### What I learned
 
-
-
-<!-- ```css
-
-``` -->
+- How to create Vue components
+- How to route pages together in Vue
+- How to connect to a server that holds data
 
 
 ### Continued development
