@@ -12,8 +12,8 @@ This project was completed following the [Vue JS Crash Course 2021 from Traversy
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Project Setup](#projectsetup)
 
 ## Overview
 
@@ -59,13 +59,7 @@ Users should be able to:
 
 ### Continued development
 
-<!-- In the future, I could focus on adding more elements/items for the background. At the moment, the background is white and plain, and I could have added extra elements to make it more interesting. This will help me improve my creativity and in the future, I could tackle projects with a more creative/innovative approach. -->
-
-
-### Useful resources
-
-<!-- - [@media query](https://stackoverflow.com/questions/21075983/how-to-use-particular-css-styles-based-on-screen-size-device/45695130) - This helped me for changing CSS styles based on screen size on device. I really liked this CSS query and will use it going forward.
-- [Bootstrap Grid](https://getbootstrap.com/docs/5.0/layout/grid/) - This is an amazing library which helped me implement a responsive design. I'd recommend it to anyone who wants to make their website responsive. -->
+In the future, I would like to add an edit page that will allow the user to edit the tasks. This could be useful when, for example, you want to change a date or time on a task.
 
 
 ## Author
@@ -81,6 +75,11 @@ npm install
 ### Compiles and hot-reloads for development
 ```
 npm run serve
+```
+
+### Compiles and runs backend server that stores data in a json file
+```
+npm run backend
 ```
 
 ### Compiles and minifies for production
